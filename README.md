@@ -11,7 +11,7 @@ This is a full-stack Employee Management System.
 
 ### Frontend
 ```bash
-cd ems-frontend
+cd EMS-FRONTEND
 npm install
 npm run dev
 ```
@@ -19,6 +19,7 @@ npm run dev
 ### Backend
 Using Maven:
 ```bash
+cd EMS-BACKEND
 mvn spring-boot:run
 ```
 Or run directly from your IDE.
