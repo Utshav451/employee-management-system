@@ -18,16 +18,6 @@ Employee Management System frontend built using React.js.
 - Axios
 - Bootstrap
 
-## Project Structure
-
-```bash
-src/
- ├── components/
- ├── services/
- ├── App.js
- └── main.jsx
-```
-
 ## Installation
 
 Clone the repository:
@@ -39,7 +29,7 @@ git clone https://github.com/Utshav451/employee-management-system.git
 Navigate to frontend folder:
 
 ```bash
-cd ems-frontend
+cd EMS-FRONTEND
 ```
 
 Install dependencies:

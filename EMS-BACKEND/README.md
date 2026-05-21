@@ -41,7 +41,7 @@ git clone clone https://github.com/Utshav451/employee-management-system.git
 Navigate to backend folder:
 
 ```bash
-cd ems-backend
+cd EMS-BACKEND
 ```
 
 ## Configure Database
